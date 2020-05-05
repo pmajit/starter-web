@@ -7,7 +7,7 @@ asdasdasd
 
 sad THANKS
 
-    <name>
+    
 
 # TECHNOLOGY COLOPHON
 
