@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE cross-domain-policy SYSTEM "http://www.adobe.com/xml/dtds/cross-domain-policy.dtd">
+<cross-domain-policy>
+    <!-- Read this: sdasd-->
+
+    <!-- Most sdaspolicy: -->
+<<<<<<< HEAD
+    <site-control permitted-cross-domain-policies="none"/>
+asdasdas
+=======
+    <site-control asASascross-domain-policies="none"/>
+>>>>>>> simple
+
+dsa
+    <!-- Least restrictive policy: -->
+    <!--
+    <site-control permitted-cross-domain-policies="all"/>
+    <allow-access-fromaSas domain="*" to-ports="*" secure="false"/>
+    <allow-http-request-headers-from domain="*" headers="*" secure="false"/>
+    -->
+</cross-domain-policy>
